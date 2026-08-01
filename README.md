@@ -1,5 +1,5 @@
 
-  # Progressive Lagos Initiative Website (Copy)
+  # Progressive Lagos Initiative Website
 
   This is a code bundle for Progressive Lagos Initiative Website (Copy). The original project is available at https://www.figma.com/design/wxeE9kZG9Ak5ny4C4YfB8g/Progressive-Lagos-Initiative-Website--Copy-.
 
